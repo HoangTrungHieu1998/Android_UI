@@ -11,33 +11,36 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:orientation="vertical"
-        android:background="#91544B">
+        android:orientation="vertical">
         <TextView
             android:gravity="center"
-            android:background="#f20"
+            android:background="#08E611"
             android:text="A"
+            android:textSize="50sp"
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="0dp"/>
         <TextView
             android:gravity="center"
-            android:background="#E91E63"
-            android:text="A"
+            android:background="#535150"
+            android:text="B"
+            android:textSize="50sp"
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="0dp"/>
         <TextView
             android:gravity="center"
-            android:background="#CDDC39"
-            android:text="A"
+            android:background="#E615A1"
+            android:text="C"
+            android:textSize="50sp"
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="0dp"/>
         <TextView
             android:gravity="center"
-            android:background="#3F51B5"
-            android:text="A"
+            android:background="#E6ECB2"
+            android:text="D"
+            android:textSize="50sp"
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="0dp"/>
@@ -47,34 +50,36 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:orientation="horizontal"
-        android:background="#91544B">
+        android:orientation="horizontal">
         <TextView
             android:gravity="center"
             android:background="#f20"
             android:text="A"
-            android:textSize="100sp"
+            android:textSize="50sp"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"/>
         <TextView
             android:gravity="center"
+            android:textSize="50sp"
             android:background="#E91E63"
-            android:text="A"
+            android:text="B"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"/>
         <TextView
             android:gravity="center"
             android:background="#CDDC39"
-            android:text="A"
+            android:text="C"
+            android:textSize="50sp"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"/>
         <TextView
             android:gravity="center"
             android:background="#3F51B5"
-            android:text="A"
+            android:text="D"
+            android:textSize="50sp"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"/>
